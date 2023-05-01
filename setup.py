@@ -35,7 +35,7 @@ setup(
     install_requires=[
         "njsscan==0.2.3",
         "gunicorn==20.0.4",
-        "flask==1.1.2",
+        "flask==2.3.2",
         "jinja2==2.11.3",
         "psycopg2-binary==2.8.6",
         "Flask-SQLAlchemy==2.4.4",
